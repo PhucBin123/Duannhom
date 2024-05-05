@@ -1,6 +1,5 @@
 package duan;
 
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
@@ -261,4 +260,11 @@ class Doctor extends hospitalstaff {
 
 	}
 }
+
+public class demo {
+	public static void main(String[] args) throws IOException {
+
+	}
+}
+
 
